@@ -1,0 +1,44 @@
+
+.messBlock {
+    float: left;
+    position: grid;
+    grid-area: f;
+    min-width: 400px;
+    min-height: 400px;
+    background-size: cover;
+    position: relative;
+    overflow: hidden;
+}
+
+.messBlock__message {
+    margin: 30px;
+    
+    display: -webkit-box;
+    -webkit-line-clamp: 8;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+.messBlock__messText {
+    padding-top: 20px;
+    margin: 0 0 0 0;
+    text-align: left;
+
+}
+
+.messBlock__social {
+    background: #ffffff;
+    margin: 18px;
+    height: -webkit-fill-available;
+    width: -webkit-fill-available;
+    bottom: 0;
+    position: absolute;
+    overflow: hidden
+}
+.messBlock__nick {
+    position: absolute;
+    bottom: 0;
+    margin-left: 22px;
+    font-size: 14pt;
+    float: left;
+    width: max-content;
+}
