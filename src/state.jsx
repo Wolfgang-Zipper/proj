@@ -2,9 +2,9 @@ let state = {
     usersData: [
         {
             social: "twitter",
-            nick: "WolfgangZipper",
-            text: "При выборе кухонной мебели нужно учесть компоновку шкафов,расположение бытовой техники, функциональное наполнение модулей верхнего и нижнего яруса. От этих показателей будет зависеть эргономичность рабочего места для приготовления еды. На эксплуатационные качества кухонной мебели влияет уровень износостойкости При выборе кухонной мебели нужно учесть компоновку шкафов, расположение бытовой техники, функциональное наполнение модулей верхнего и нижнего яруса. От этих показателей будет зависеть эргономичность рабочего места для приготовления еды. На эксплуатационные качества кухонной мебели влияет уровень износостойкости",
-            back: "https://s1.stc.all.kpcdn.net/putevoditel/projectid_346574/images/tild3439-3231-4136-b461-316662613332__960.jpg"
+            nick: "Gvidon",
+            text: "Где бы вы видели, чтобы меченосцы ходили такими углами?",
+            backVideo: "https://r3---sn-a5msen7l.googlevideo.com/videoplayback?expire=1593019417&ei=uTfzXpF3gafuA4iOidAN&ip=2.58.12.145&id=o-ACD4LK7w602b0vP3EMsmXguh1Lya_VNO9_Mk6vnV_tGh&itag=18&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&gir=yes&clen=5547110&ratebypass=yes&dur=60.116&lmt=1574902544728863&fvip=3&c=WEB&txp=5531432&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIhAPQsKdZ2WAIRL01gOlHsdLyva4TNs1Fbvv_2P_8rjEoJAiB_b1sQADLstXIU0rWJPP16x0nioz6TpRD-tMmfG3wPXA%3D%3D&video_id=9d6xZrwXea4&title=%D0%92+%D0%9C%D0%90%D0%A1%D0%A2%D0%95%D0%A0%D0%A1%D0%9A%D0%9E%D0%99+%D0%A5%D0%A3%D0%94%D0%9E%D0%96%D0%9D%D0%98%D0%9A%D0%90+%D0%93%D0%92%D0%98%D0%94%D0%9E%D0%9D%D0%90+%D0%92%D0%98%D0%A8%D0%9D%D0%95%D0%92%D0%A1%D0%9A%D0%9E%D0%93%D0%9E&redirect_counter=1&rm=sn-5hneed7s&req_id=c6e4bd7c8a2fa3ee&cms_redirect=yes&ipbypass=yes&mh=-3&mip=46.63.141.117&mm=31&mn=sn-a5msen7l&ms=au&mt=1593007171&mv=D&mvi=2&pl=0&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgJYNLocrKGAOFTw0iy76tgoO2tNZgOzSVbLoDMMlT6KsCIFC3nnAzigsCgk7fiwVXwGVrrc-WnLXjPB-mGKPc397I"
         },
         {
             social: "vk",
@@ -14,7 +14,7 @@ let state = {
         {
             social: "fb",
             nick: "Admiral777",
-            text: "При выборе кухонной мебели ",
+            text: "Служу отчизне",
             back: "https://s1.stc.all.kpcdn.net/putevoditel/projectid_346574/images/tild3439-3231-4136-b461-316662613332__960.jpg"
         },
         {
@@ -39,7 +39,6 @@ let state = {
             social: "fb",
             nick: "Admiraqweqweqwel777",
             text: "При выборе кухонной мебели ",
-            back: "https://r18---sn-n8v7znsk.googlevideo.com/videoplayback?expire=1593012193&ei=gRvzXqOoF6KIv_IP5KeykAI&ip=45.133.217.21&id=o-AMTscgl1JMzLhc7v2BiXu6S_YaY4MDocAJL-8pcoMIX2&itag=18&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&gir=yes&clen=36804347&ratebypass=yes&dur=1413.863&lmt=1571446743634636&fvip=5&c=WEB&txp=2216222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIgVn7Tz1RdnFWJYiNDbjap3jv2u5xHvjnqlwTQomsh9IsCIQDs30l02wqxNrxA0UDe_oZxVIb9Vji3Wi7lX9KRVUC3oQ%3D%3D&title=Build_a_Responsive_React_Video_Player&cm2rm=sn-gvnuxaxjvh-nufl7d,sn-gvnuxaxjvh-n8vk7d&req_id=20e67c79d594a3ee&redirect_counter=2&cms_redirect=yes&mh=Eg&mip=46.63.141.117&mm=30&mn=sn-n8v7znsk&ms=nxu&mt=1592990538&mv=m&mvi=17&pl=23&lsparams=mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIhAKh20I5PxK8x2q3vxMocA8AJQF70dnerp-oNElYPUHhXAiA45ILslIzK2ABFsJPsFyvyOW9eoDFtTfe2w083nYw48A%3D%3D"
         },
         {
             social: "fb",
@@ -48,10 +47,16 @@ let state = {
             backVideo: "https://r18---sn-n8v7knez.googlevideo.com/videoplayback?expire=1593012391&ei=RxzzXoyVFZLt7QS84YZ4&ip=87.236.20.103&id=o-AGvdsPQZakKW61uDRYSJ_IULobWdIVEcaI1-nJ8e8Aw_&itag=18&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&gir=yes&clen=36804347&ratebypass=yes&dur=1413.863&lmt=1571446743634636&fvip=18&c=WEB&txp=2216222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRgIhALNPaneco9ZdywO3cf76VhizbtNjfRB0jSDUoEYf2E2jAiEA7xPplCjHQKxlTLvqnowjH_OBJqj8O0BkzTGd_d-OVOY%3D&title=Build+a+Responsive+React+Video+Player+%28360p%29&cm2rm=sn-pivhx-n8vs7d&req_id=42427e38d6aba3ee&rm=sn-n8vyeer,sn-gvnuxaxjvh-n8vk7d&ipbypass=yes&redirect_counter=3&cms_redirect=yes&mh=Eg&mip=46.63.141.117&mm=30&mn=sn-n8v7knez&ms=nxu&mt=1592990718&mv=m&mvi=17&pl=23&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIhAP9CJ3QfHM-tNBNSd30Nnkclzlet_jiXLAES1REU7awaAiBR3w7EhjAZRhGhcG8EekIcLBi9krskCu5-M3YU3DLoKg%3D%3D"
         },
         {
-            social: "fb",
-            nick: "Test",
-            text: "T ",
-            backVideo: "https://r18---sn-n8v7knez.googlevideo.com/videoplayback?expire=1593012391&ei=RxzzXoyVFZLt7QS84YZ4&ip=87.236.20.103&id=o-AGvdsPQZakKW61uDRYSJ_IULobWdIVEcaI1-nJ8e8Aw_&itag=18&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&gir=yes&clen=36804347&ratebypass=yes&dur=1413.863&lmt=1571446743634636&fvip=18&c=WEB&txp=2216222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRgIhALNPaneco9ZdywO3cf76VhizbtNjfRB0jSDUoEYf2E2jAiEA7xPplCjHQKxlTLvqnowjH_OBJqj8O0BkzTGd_d-OVOY%3D&title=Build+a+Responsive+React+Video+Player+%28360p%29&cm2rm=sn-pivhx-n8vs7d&req_id=42427e38d6aba3ee&rm=sn-n8vyeer,sn-gvnuxaxjvh-n8vk7d&ipbypass=yes&redirect_counter=3&cms_redirect=yes&mh=Eg&mip=46.63.141.117&mm=30&mn=sn-n8v7knez&ms=nxu&mt=1592990718&mv=m&mvi=17&pl=23&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIhAP9CJ3QfHM-tNBNSd30Nnkclzlet_jiXLAES1REU7awaAiBR3w7EhjAZRhGhcG8EekIcLBi9krskCu5-M3YU3DLoKg%3D%3D"
+            social: "vk",
+            nick: "AndreaHenkel",
+            text: "Hello",
+            back: "https://media.krasota.ru/filer_public/12/5a/125ac00d-b5b3-4313-a798-2409523ae40e/mediajpghuj_res750.jpg"
+        },
+        {
+            social: "vk",
+            nick: "AndreaHenkel",
+            text: "Hello",
+            back: "https://media.krasota.ru/filer_public/12/5a/125ac00d-b5b3-4313-a798-2409523ae40e/mediajpghuj_res750.jpg"
         }
     ]
   }
