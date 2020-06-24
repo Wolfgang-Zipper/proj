@@ -20,7 +20,7 @@ const getRandomimg = (min, max)  => {
             case 6: {
                 return "url(https://cdn.pixabay.com/photo/2015/09/12/23/48/stripes-937568_960_720.jpg)"
             }
-            default: return "url(https://s-media-cache-ak0.pinimg.com/originals/ba/cc/76/bacc76b9a5dc6a733c23784b36d5d3de.jpg)";
+            default: return '#177ee6'
         }  
     }
 

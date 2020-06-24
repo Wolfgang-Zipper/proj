@@ -8,7 +8,7 @@ class MessageBlock extends React.Component {
 
     render () {
         let size = this.props.text.length  ;
-        let maxSize = 60;
+        let maxSize = 50;
         let minSize = 22;
         if (size> maxSize){
             size = maxSize
@@ -22,7 +22,7 @@ class MessageBlock extends React.Component {
      <div className={mb.wrapper}>
       <div style={{background: this.props.back? "url(" + this.props.back + ")": getRandomimg(1, 6), backgroundSize: "cover" }} className={mb.messBlock}>
         {videoSet(this.props.backVideo)}
-        <Spring reset config={{duration: 2000, delay: 2000}}from={{background: this.props.back? "rgb(23, 126, 230)" : "white", width: this.props.backVideo||this.props.back? "35%":"91%", height: this.props.backVideo||this.props.back ? "14%":"91%"}} to={{background: this.props.back? "rgb(23, 126, 230)" : "white", width: "91%", height: "91%" }} >
+        <Spring reset config={{duration: 2000, delay: 2000}}from={{background: this.props.back? "rgb(23, 126, 230)" : "white", width: this.props.backVideo||this.props.back? "60%":"91%", height: this.props.backVideo||this.props.back ? "14%":"91%"}} to={{background: this.props.back? "rgb(23, 126, 230)" : "white", width: "91%", height: "91%" }} >
           {props  => (
             <div  >
             <div id="messText" style={props}  className={mb.messBlock__social}>
